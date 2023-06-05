@@ -1,9 +1,9 @@
 random
-datetime
+DateTime
 pandas
-faker
+Faker
 numpy
-st_aggrid
+streamlit-aggrid
 streamlit
 plotly
 numerize
