@@ -4,7 +4,6 @@ pandas
 faker
 numpy
 st_aggrid
-st_aggrid
 streamlit
 plotly
 numerize
