@@ -3,7 +3,7 @@ DateTime
 pandas
 Faker
 numpy
-streamlit-aggrid
+streamlit_aggrid
 streamlit
 plotly
 numerize
