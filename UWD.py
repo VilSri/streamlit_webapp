@@ -767,7 +767,7 @@ with tab4:
         
 with tab5:
     # Predefined list of questions and corresponding answers
-    questions = ["top3 cities with high rejection rates", 
+    questions = ["top 3 cities with high rejection rates", 
                  "What age group have good approval rates"]
     answers = ["Sure! Here are the top 3 cities with high rejection rates.    \n\t 1)New York - 27%    \n\t 2)California - 32%    \n\t 3)Texas - 17%", 
                "Below is the distribution of approval rates by age group.    \n\t 1)Age group = 25-35, Approval Rate = 72%    \n\t 2)Age group = 36-50, Approval Rate = 60%    \n\t 3)Age group = 50+, Approval Rate = 17%" 
